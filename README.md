@@ -1,14 +1,14 @@
 <div align="center">
-![Header](./github-header-image.png)
+<img src = "./github-header-image.png" >
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/tarekraihan.https://github.com/tarekraihan)
 
 </p>
-<div size='20px'> Hi! My name is Zia Uddin Muhammad Tarek. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hey there! My name is Zia Uddin Muhammad Tarek, and I'm a software engineer with 8 years of experience. My expertise lies in technologies such as Reactjs, Nodejs, Mysql, php, and Javascript. I've got a solid understanding of software development principles and best practices, and I'm confident in my ability to work both independently and as part of a team. Over the years, I've designed, developed, and deployed high-quality software solutions that meet the needs of clients and end-users. I'm passionate about what I do and always strive to deliver exceptional results. If you're looking for someone to join your software development team or project, I believe I would be a valuable asset. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently working on My Blog, Github Project
 
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering 
+- 🌱 I’m currently learning Dart, Flutter, Data Science,AWS,Data Engineering 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+
 
 - 💬 Talk to me about Javascript 
 
