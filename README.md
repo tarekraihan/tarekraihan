@@ -37,7 +37,7 @@
 <div style='display:flex'>
 <a href = 'https://www.github.com/https://github.com/tarekraihan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  
 <a href = 'mailto:tarekraihan@yahoo.com'> <img width = '32px' align= 'center' src="./email.png"/></a>  
-<a href = 'tel:+8801911222952'> <img width = '32px' align= 'center' src="./phone.png"/></a>
+<a href='tel: +8801911222952'> <img width = '32px' align= 'center' src="./phone.png"/></a>
 </div>
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
