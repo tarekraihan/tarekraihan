@@ -17,7 +17,7 @@
 
 - 🔭 Working on My Blog, Github Project
 
-- 🌱 Wearning Data Science,AWS,Data Engineering 
+- 🌱 Learning Data Science,AWS,Data Engineering 
 
 - 👯 Looking to collaborate on Projects,Tech Articles 
 
